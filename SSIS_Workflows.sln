@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1738
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS_Workflows", "SSIS_Workflows\SSIS_Workflows.dtproj", "{6F9BBBB7-FB49-4B69-BAC3-28679F63E14D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F9BBBB7-FB49-4B69-BAC3-28679F63E14D}.Development|Default.ActiveCfg = Development
+		{6F9BBBB7-FB49-4B69-BAC3-28679F63E14D}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F49214D2-86AB-498C-AFB8-491200D7FFDD}
+	EndGlobalSection
+EndGlobal
